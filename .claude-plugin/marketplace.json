@@ -1,0 +1,24 @@
+{
+  "name": "grounded-leader",
+  "owner": {
+    "name": "groundedleadership.ai",
+    "email": "xiiiiiiiiii@gmail.com"
+  },
+  "metadata": {
+    "description": "Mindfulness-based leadership assessment tools from the Grounded Leader Program"
+  },
+  "plugins": [
+    {
+      "name": "grounded-leader",
+      "source": "./grounded-leader-plugin",
+      "description": "Map your grounding patterns across 9 leadership dimensions through a reflective, story-based coaching conversation. A free taste of the 8-week Grounded Leader Program.",
+      "version": "0.2.0",
+      "author": {
+        "name": "groundedleadership.ai"
+      },
+      "homepage": "https://groundedleadership.ai",
+      "keywords": ["mindfulness", "leadership", "coaching", "grounding", "self-assessment", "personal development", "inner coach", "meditation", "wellness"],
+      "category": "productivity"
+    }
+  ]
+}
