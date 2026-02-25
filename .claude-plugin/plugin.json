@@ -1,0 +1,23 @@
+{
+  "name": "grounded-leader",
+  "version": "0.2.0",
+  "description": "Map your grounding patterns across 9 leadership dimensions through a reflective, story-based coaching conversation. A free taste of the Grounded Leader Program — an 8-week journey blending mindfulness and AI to help leaders build a personal Inner Coach.",
+  "author": {
+    "name": "groundedleadership.ai",
+    "email": "xiiiiiiiiii@gmail.com"
+  },
+  "homepage": "https://groundedleadership.ai",
+  "keywords": [
+    "mindfulness",
+    "leadership",
+    "coaching",
+    "grounding",
+    "self-assessment",
+    "personal development",
+    "inner coach",
+    "meditation",
+    "wellness"
+  ],
+  "category": "productivity",
+  "license": "UNLICENSED"
+}
